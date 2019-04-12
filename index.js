@@ -16,4 +16,12 @@ class BroadMember {
   doCharity(){
     console.log("No, I must disagree")
   }
+  
+  doCharity(){
+    console.log("No, I must disagree")
+  }
+  
+  doCharity(){
+    console.log("No, I must disagree")
+  }
 }
