@@ -21,7 +21,7 @@ class BroadMember {
     console.log("No, I must disagree")
   }
   
-  doCharity(){
+  sayHi(){
     console.log("No, I must disagree")
   }
 }
