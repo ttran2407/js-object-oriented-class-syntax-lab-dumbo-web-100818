@@ -22,6 +22,6 @@ class BroadMember {
   }
   
   sayHi(){
-    console.log("No, I must disagree")
+    console.log(`Hi, my name is ${this.name}. I am from ${homestate}, and I was trained in <training>.`)
   }
 }
