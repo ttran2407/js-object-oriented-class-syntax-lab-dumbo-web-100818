@@ -9,7 +9,7 @@ class BroadMember {
     console.log("No, I must disagree")
   }
   
-  veto(){
+  approve(){
     console.log("No, I must disagree")
   }
   
