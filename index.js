@@ -18,7 +18,7 @@ class BroadMember {
   }
   
   releasePressStatement(){
-    console.log("No, I must disagree")
+    console.log("You will see great things from Scuber.")
   }
   
   sayHi(){
