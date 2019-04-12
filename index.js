@@ -13,7 +13,7 @@ class BroadMember {
     console.log("No, I must disagree")
   }
   
-  veto(){
+  doCharity(){
     console.log("No, I must disagree")
   }
 }
