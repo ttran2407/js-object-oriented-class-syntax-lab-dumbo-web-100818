@@ -25,3 +25,10 @@ class BroadMember {
     console.log(`Hi, my name is ${this.name}. I am from ${this.homestate}, and I was trained in ${this.training}.`)
   }
 }
+
+class Ceo extends BroadMember{
+  
+  hireEmployee(){
+    console.log("Welcome abroad!")
+  }
+}
