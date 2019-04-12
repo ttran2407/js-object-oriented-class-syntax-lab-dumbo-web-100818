@@ -6,6 +6,6 @@ class BroadMember {
   }
   
   veto(){
-    con
+    console.log("No, I must disagree")
   }
 }
