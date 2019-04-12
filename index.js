@@ -10,7 +10,7 @@ class BroadMember {
   }
   
   approve(){
-    console.log("No, I must disagree")
+    console.log("You can do that!")
   }
   
   doCharity(){
