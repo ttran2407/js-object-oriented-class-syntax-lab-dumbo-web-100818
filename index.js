@@ -14,7 +14,7 @@ class BroadMember {
   }
   
   doCharity(){
-    console.log("No, I must disagree")
+    console.log("I like to help people.")
   }
   
   releasePressStatement(){
