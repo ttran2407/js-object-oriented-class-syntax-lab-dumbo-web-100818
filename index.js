@@ -5,7 +5,7 @@ class BroadMember {
     this.training = training
   }
   
-  veto = (){
-    
+  veto(){
+    con
   }
 }
